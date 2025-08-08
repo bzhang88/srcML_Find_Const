@@ -1,0 +1,4 @@
+[submodule "srcDispatch"]
+	path = srcDispatch
+	url = https://github.com/srcML/srcDispatch
+	branch = develop
